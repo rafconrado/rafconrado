@@ -2,6 +2,10 @@
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, aprendizados e ideias relacionadas a desenvolvimento e muito mais. Sinta-se à vontade para explorar e colaborar!
 
+### Minhas habilidades
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 📫 Como me encontrar:  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafconradoo@gmail.com)
