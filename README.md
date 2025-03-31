@@ -4,24 +4,21 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, aprendizados
 
 ### 🚀 Minhas Habilidades
 
-#### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 📚 Sobre Minhas Principais Tecnologias
 
 **React.js**  
-Biblioteca JavaScript para construção de interfaces de usuário reativas e componentizadas. Experiência em criação de SPAs (Single Page Applications), gerenciamento de estado com Context API e Redux, e integração com APIs REST.
+Biblioteca JavaScript líder para construção de interfaces modernas. Experiência em componentes funcionais, hooks, Context API, Redux e criação de SPAs responsivas.
 
 **React Native**  
-Framework para desenvolvimento de aplicativos móveis multiplataforma (iOS e Android) utilizando JavaScript/TypeScript. Domínio em componentes nativos, navegação, animações e integração com APIs nativas.
+Meu forte para desenvolvimento mobile! Domínio em apps cross-platform, navegação, integração com APIs nativas, animações e publicação nas stores.
 
 **Node.js**  
-Runtime JavaScript para desenvolvimento server-side. Conhecimento em criação de APIs RESTful, autenticação JWT, integração com bancos de dados e arquitetura MVC.
+Backend JavaScript com Express, criação de APIs REST, autenticação JWT, conexão com bancos de dados e arquitetura escalável.
 
 ### 📫 Como Me Encontrar
 
