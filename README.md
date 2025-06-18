@@ -6,12 +6,13 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar 
 
 ### 🚀 Minhas Habilidades
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
+<p align="center">
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+  [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+</p>
 
 ---
 
@@ -41,14 +42,16 @@ No backend, utilizo Node.js para construir aplicações robustas e escaláveis. 
 
 ### 📈 Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafconrado&show_icons=true&theme=dark)](https://github.com/rafconrado)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&theme=dark)](https://github.com/rafconrado)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafconrado&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&theme=dark&hide_title=true" alt="Linguagens Mais Usadas" width="400px"/>
+</p>
 
 ---
 
 ### 📫 Como Me Encontrar
 
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+<div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
   <a href="mailto:rafconradoo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
