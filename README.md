@@ -41,8 +41,8 @@ No backend, utilizo Node.js para construir aplicações robustas e escaláveis. 
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafconrado&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&theme=dark&hide_title=true&hide_border=true" alt="Linguagens Mais Usadas" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafconrado&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&card_width=380" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&theme=dark&hide_title=true&hide_border=true&card_width=380" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
