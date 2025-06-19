@@ -39,6 +39,6 @@ Atualmente estudo e aplico conhecimentos para atuar como **Desenvolvedor Mobile 
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rafconrado&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&theme=dark&hide_title=true&hide_border=true" alt="Top Languages" />
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=rafconrado&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&theme=dark&hide_title=true&hide_border=true" alt="Top Languages" />
 </p>
