@@ -43,4 +43,3 @@ Sou formado em Gestão de Tecnologia da Informação e me especializei como dese
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&theme=dark&hide_title=true&hide_border=true&card_width=380" alt="Linguagens Mais Usadas" />
 </p>
 
-[![Rafael Conrado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafconrado&theme=dark&hide_border=true)](https://github.com/rafconrado)
