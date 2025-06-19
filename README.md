@@ -2,7 +2,7 @@
 
 Sou formado em **Gestão de Tecnologia da Informação** e me especializei como **Desenvolvedor Full Stack** através do curso **ProgramadorBR**, com foco em:
 
-> HTML, CSS, JavaScript, Firebase, JQuery, Bootstrap, React, NodeJS e MongoDB.
+HTML, CSS, JavaScript, Firebase, JQuery, Bootstrap, React, NodeJS e MongoDB.
 
 Além disso, me desenvolvi como **Mobile Developer** na **Rocketseat**.
 
@@ -10,10 +10,10 @@ Atualmente estudo e aplico conhecimentos para atuar como **Desenvolvedor Mobile 
 
 ---
 
-### 🚀 Sobre Mim:
+### 🧑‍💻 Sobre Mim:
 
-- 📚 Sempre estudando **React JS**, **React Native**, **TypeScript** e **Node.js**
-- 🧠 Buscando aprendizado constante em novas tecnologias
+- 📘 Sempre estudando **React JS**, **React Native**, **TypeScript** e **Node.js**
+- 🎯 Buscando aprendizado constante em novas tecnologias
 - 📞 Contato: [rafconradoo@gmail.com](mailto:rafconradoo@gmail.com) | +55 (61) 99244-9110 (WhatsApp)
 
 ---
@@ -27,7 +27,7 @@ Atualmente estudo e aplico conhecimentos para atuar como **Desenvolvedor Mobile 
 
 ---
 
-### 💻 Habilidades:
+### 🛠️ Habilidades:
 
 - React
 - React Native
@@ -39,6 +39,6 @@ Atualmente estudo e aplico conhecimentos para atuar como **Desenvolvedor Mobile 
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafconrado&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&card_width=380" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&theme=dark&hide_title=true&hide_border=true&card_width=380" alt="Linguagens Mais Usadas" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rafconrado&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&theme=dark&hide_title=true&hide_border=true" alt="Top Languages" />
 </p>
