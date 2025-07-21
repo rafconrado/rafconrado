@@ -1,8 +1,6 @@
 # 👋 Olá, me chamo Rafael Conrado
 
-Sou formado em **Gestão de Tecnologia da Informação** e me especializei como **Desenvolvedor Full Stack** através do curso **ProgramadorBR**, com foco em:
-
-HTML, CSS, JavaScript, Firebase, JQuery, Bootstrap, React, NodeJS e MongoDB.
+Sou formado em **Gestão de Tecnologia da Informação** e me especializei como **Desenvolvedor Full Stack** através do curso **ProgramadorBR**, com foco em: HTML, CSS, JavaScript, Firebase, JQuery, Bootstrap, React, NodeJS e MongoDB.
 
 Além disso, me desenvolvi como **Mobile Developer** na **Rocketseat**.
 
