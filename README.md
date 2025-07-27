@@ -29,7 +29,7 @@ Atualmente estudo e aplico conhecimentos para atuar como **Desenvolvedor Mobile 
 - React Native
 - React 
 - NodeJS
-- JavaScript & TypeScript
+- TypeScript & JavaScript 
 
 ---
 
