@@ -26,8 +26,8 @@ Atualmente estudo e aplico conhecimentos para atuar como **Desenvolvedor Mobile 
 
 ### 🛠️ Habilidades:
 
-- React
 - React Native
+- React 
 - NodeJS
 - JavaScript & TypeScript
 
