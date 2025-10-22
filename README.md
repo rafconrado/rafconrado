@@ -4,7 +4,7 @@ Sou formado em **Gestão de Tecnologia da Informação** e me especializei como 
 
 Além disso, me desenvolvi como **Mobile Developer** na **Rocketseat**.
 
-Atualmente estudo e aplico conhecimentos para atuar como **Desenvolvedor Mobile e Front-End**.
+Atualmente estudo e aplico conhecimentos para atuar como **Desenvolvedor Mobile e Fullstack**.
 
 ---
 
