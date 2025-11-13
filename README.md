@@ -5,7 +5,7 @@ Minha base vem do curso **ProgramadorBR**, onde me aprofundei em **JavaScript, F
 
 Além disso, me desenvolvi como **Mobile Developer** na **Rocketseat**, com foco em **React Native** e boas práticas de arquitetura de código.
 
-Atualmente estudo e aplico tecnologias modernas para atuar como **Desenvolvedor Full Stack**, integrando **frontend (Vue.js e React)** e **backend (PHP e Node.js)**.
+Atualmente trabalho como **Desenvolvedor Full Stack**, integrando **frontend (Vue.js)** e **backend (PHP e Node.js)**.
 
 ---
 
