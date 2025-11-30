@@ -50,12 +50,4 @@ Atualmente trabalho como **Desenvolvedor Full Stack**, integrando **frontend (Vu
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&theme=dark&hide_title=true&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 💬 _"Transformando ideias em código, e código em soluções reais."_
