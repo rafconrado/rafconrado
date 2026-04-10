@@ -1,71 +1,49 @@
-<div align="center">
+# 👋 Olá, me chamo Rafael Conrado
 
-<a href="https://www.linkedin.com/in/rafconradoo/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://wa.me/61992449110">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/rafconrado/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:rafconradoo@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Sou formado em **Gestão de Tecnologia da Informação** e atuo como **Desenvolvedor Full Stack**, com experiência em **aplicações web e mobile**.  
+Minha base vem do curso **ProgramadorBR**, onde me aprofundei em **JavaScript, Firebase, React, NodeJS e MongoDB** — e posteriormente ampliei meu conhecimento com **Vue.js**, **PHP** e **MySQL**, fortalecendo minha atuação no **desenvolvimento completo de sistemas**.
 
-<br/><br/>
+Além disso, me desenvolvi como **Mobile Developer** na **Rocketseat**, com foco em **React Native** e boas práticas de arquitetura de código.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Vue.js+%2B+Node.js+%2B+PHP;React+Native+%2B+Expo;APIs+RESTful+%2B+Clean+Architecture;Sempre+aprendendo+e+evoluindo+%E2%9C%A8" />
-
-</div>
+Atualmente trabalho como **Desenvolvedor Full Stack**, integrando **frontend (Vue.js)** e **backend (PHP e Node.js)**.
 
 ---
 
-## `$ cat about.me`
+### 🧑‍💻 Sobre Mim
 
-```yaml
-name:       Rafael Conrado
-location:   Brasília, Brazil 🇧🇷
-role:       Full Stack Developer
-education:  Gestão de Tecnologia da Informação
-currently:
-  - Frontend  : Vue.js
-  - Backend   : PHP + Node.js
-  - Databases : MySQL · Firebird
-focus:
-  - RESTful APIs · Componentização · Escalabilidade
-  - Boas práticas · Código limpo · Mobile-first
-```
+- 📘 Estudando e aplicando **Vue.js**, **React**, **PHP**, **Node.js** e **TypeScript**
+- ⚙️ Experiência no desenvolvimento **Full Stack**, integrando **API RESTful** e **bancos de dados relacionais e não relacionais**
+- 🎯 Foco em **boas práticas**, **componentização** e **escalabilidade**
+- 📞 Contato: [rafconradoo@gmail.com](mailto:rafconradoo@gmail.com) | +55 (61) 99244-9110 (WhatsApp)
 
 ---
 
-## 🛠 Tech Stack
+### 🌐 Onde Me Encontrar
 
-<div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=vue,react,ts,js,html,css&theme=dark" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,php,express,mysql,mongodb&theme=dark" />
-
-<br/>
-<img src="https://img.shields.io/badge/Firebird-EE4432?style=for-the-badge&logoColor=white"/>
-
-**Mobile & Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=react,firebase,git,github,vscode,figma&theme=dark" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafconradoo/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/61992449110)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafconrado/)
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tecnologias Principais
 
-<div align="center">
+#### 💻 Front-end
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
-<img src="https://streak-stats.demolab.com?user=rafconrado&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
+#### ⚙️ Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
 
-</div>
+#### 🗄️ Banco de Dados
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+#### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff)
