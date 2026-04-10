@@ -28,13 +28,10 @@ name:       Rafael Conrado
 location:   Brasília, Brazil 🇧🇷
 role:       Full Stack Developer
 education:  Gestão de Tecnologia da Informação
-training:
-  - ProgramadorBR  → JavaScript, React, Node.js, Firebase, MongoDB
-  - Rocketseat     → React Native, Clean Architecture, Mobile Dev
 currently:
   - Frontend  : Vue.js
   - Backend   : PHP + Node.js
-  - Databases : MySQL · MongoDB · SQLite
+  - Databases : MySQL · Firebird
 focus:
   - RESTful APIs · Componentização · Escalabilidade
   - Boas práticas · Código limpo · Mobile-first
@@ -52,7 +49,10 @@ focus:
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,php,express,mysql,mongodb,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,express,mysql,mongodb&theme=dark" />
+
+<br/>
+<img src="https://img.shields.io/badge/Firebird-EE4432?style=for-the-badge&logoColor=white"/>
 
 **Mobile & Ferramentas**
 
@@ -66,13 +66,6 @@ focus:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafconrado&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&cache_seconds=1800" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=rafconrado&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
 
 </div>
-
-
