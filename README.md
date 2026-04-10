@@ -66,8 +66,8 @@ focus:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafconrado&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafconrado&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&cache_seconds=1800" />
 
 <br/>
 
