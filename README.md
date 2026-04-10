@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rafael%20Conrado&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20Web%20%26%20Mobile&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rafconradoo/">
@@ -77,17 +75,4 @@ focus:
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafconrado/rafconrado/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafconrado/rafconrado/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/rafconrado/rafconrado/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
 
