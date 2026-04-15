@@ -9,9 +9,8 @@ Sou graduado em **Gestão de Tecnologia da Informação** e atuo como **Desenvol
 ### 🧑‍💻 Sobre Mim
 
 - 💻 **Foco Atual:** Desenvolvimento Full Stack com **Vue.js**, **PHP** e **Node.js**.
-- 📱 **Mobile & Web:** Especialista em **PWAs** e aplicações mobile nativas com **React Native**.
+- 📱 **Mobile & Web:** Especialista em aplicações mobile nativas com **React Native** e **PWAs**.
 - ⚙️ **Backend:** Experiência em **APIs RESTful** e integração com múltiplos bancos de dados.
-- 🎯 **Diferenciais:** Código limpo, componentização e foco em escalabilidade.
 
 ---
 
