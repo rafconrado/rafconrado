@@ -10,7 +10,7 @@ Sou graduado em **Gestão de Tecnologia da Informação** e atuo como **Desenvol
 
 - 💻 **Foco Atual:** Desenvolvimento Full Stack com **Vue.js**, **PHP** e **Node.js**.
 - 📱 **Mobile & Web:** Especialista em aplicações mobile nativas com **React Native** e **PWAs**.
-- ⚙️ **Backend:** Experiência em **APIs RESTful** e integração com múltiplos bancos de dados.
+- ⚙️ **Backend:** Experiência em APIs RESTful com **Node.js (Express.js, Bun)**, **PHP** e integração com múltiplos bancos de dados.
 
 ---
 
@@ -26,6 +26,8 @@ Sou graduado em **Gestão de Tecnologia da Informação** e atuo como **Desenvol
 #### **Backend & Databases**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Firebird](https://img.shields.io/badge/Firebird-FF7A5C?style=for-the-badge&logo=firebird&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
