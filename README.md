@@ -115,8 +115,3 @@ Desenvolvedor Full Stack com formação em **Gestão de TI** e especialização 
 
 </div>
 
----
-
-<div align="center">
-  <sub>Aberto a oportunidades · Remoto ou presencial em Brasília</sub>
-</div>
