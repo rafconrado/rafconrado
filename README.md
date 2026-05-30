@@ -74,9 +74,6 @@ Desenvolvedor Full Stack com formação em **Gestão de TI** e especialização 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rafconrado&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafconrado&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
 </div>
 
 <div align="center">
@@ -93,8 +90,8 @@ Desenvolvedor Full Stack com formação em **Gestão de TI** e especialização 
 ✅  APIs RESTful   →  Node.js / Express / Bun  ·  escaláveis e documentadas
 ✅  Sistemas Web   →  Vue.js  ·  interfaces rápidas e componentes reutilizáveis
 ✅  Mobile         →  React Native  ·  apps publicados em produção
-✅  PWA            →  experiência nativa direto no navegador
-✅  Backend PHP    →  sistemas legados modernizados + novos projetos
+✅  PWA            →  Experiência nativa direto no navegador
+✅  Backend PHP    →  Sistemas legados modernizados + novos projetos
 ✅  Banco de dados →  MySQL · MongoDB · Firebird  ·  modelagem e otimização
 ```
 
