@@ -59,7 +59,7 @@ Desenvolvedor Full Stack com formação em **Gestão de TI** e especialização 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Firebird](https://img.shields.io/badge/Firebird-FF7A5C?style=for-the-badge&logo=firebird&logoColor=white)
 
-### Ferramentas & DevOps
+### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
