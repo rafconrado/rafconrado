@@ -65,20 +65,6 @@ Desenvolvedor Full Stack com formação em **Gestão de TI** e especialização 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rafconrado&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🚀 O que eu entrego
 
 ```
