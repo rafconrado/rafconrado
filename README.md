@@ -13,10 +13,6 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4FC08D&center=true&vCenter=true&width=500&lines=Sistemas+Web+robustos+e+escaláveis;APIs+RESTful+de+alta+performance;PWAs+e+apps+mobile+nativos;Código+limpo%2C+arquitetura+sólida)](https://git.io/typing-svg)
-
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Conrado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafconradoo/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561992449110)
 [![Gmail](https://img.shields.io/badge/Gmail-rafconradoo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafconradoo@gmail.com)
