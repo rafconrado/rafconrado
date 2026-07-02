@@ -80,6 +80,8 @@ Desenvolvedor Full Stack com formação em **Gestão de TI** e especialização 
 
 ## 🌐 Onde me encontrar
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafconradoo/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561992449110)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafconrado/)
@@ -88,4 +90,6 @@ Desenvolvedor Full Stack com formação em **Gestão de TI** e especialização 
 <br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafconrado.rafconrado)
+
+</div>
 
