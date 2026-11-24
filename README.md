@@ -2,28 +2,25 @@
 
 **Backend & Full Stack Developer** focado em arquitetura de APIs escaláveis, integrações complexas, sistemas fiscais/financeiros e aplicações de alta performance.
 
-📍 Brasília, DF — Brasil
+📍 Brasília, DF — Brasil  
+⚡ **Stack principal:** Node.js · TypeScript · NestJS · Prisma · React Native · Vue.js
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tecnologias & Arquitetura
 
-**Backend, Bancos de Dados & DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,express,prisma,bun,php,postgres,mysql,mongodb,sqlite,docker,git,linux&perline=7" alt="Backend Stack" />
-</p>
-
-**Frontend & Mobile**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css" alt="Frontend Stack" />
-</p>
+- **Backend & Runtimes:** Node.js, NestJS, TypeScript, Express, Bun, PHP
+- **Arquitetura & Integrações:** REST APIs, Prisma ORM, SOAP / mTLS, Assinatura Digital (XMLDSig / ICP-Brasil), Webhooks
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, SQLite, Firebird
+- **Frontend & Mobile:** React, React Native, Vue.js, PWA
+- **Ferramentas & DevOps:** Git, GitHub, Docker, Linux, VS Code
 
 ---
 
 ### 📦 Open Source & Destaques
 
 - 🚀 **[nfe-lib-node](https://www.npmjs.com/package/nfe-lib-node)** *(Publicada no NPM)* — Biblioteca Node.js/TypeScript para emissão de Nota Fiscal Eletrônica (NF-e 4.00), assinatura digital XMLDSig (Certificado A1), comunicação direta SOAP 1.2 com a SEFAZ e geração nativa de DANFE em PDF.
-- ⚙️ **[billing-engine-nest](https://github.com/rafconrado/billing-engine-nest)** — Motor de pagamentos, assinaturas recorrentes e processamento de webhooks com idempotência, transações atômicas e containerização multi-stage em **NestJS + Prisma + Docker**.
+- ⚙️ **[billing-engine-nest](https://github.com/rafconrado/billing-engine-nest)** — Motor de pagamentos, assinaturas recorrentes e processamento de webhooks com idempotência e transações atômicas em **NestJS + Prisma**.
 
 ---
 
